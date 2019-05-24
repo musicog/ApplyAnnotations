@@ -5,7 +5,9 @@
 // @homepageURL https://github.com/musicog/ApplyAnnotations
 // @version  1
 // @run-at document-idle
-// @include  *
+// @include  http://yasgui.org/*
+// @include  https://yasgui.org/*
+// @include  http://linkeddata.uni-muenster.de:7200/sparql
 // @require  http://www.verovio.org/javascript/latest/verovio-toolkit.js
 // ==/UserScript==
 
