@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name ApplyAnnotations
-// @description  Foo
+// @description  Extremely simple Web Annotation client
 // @author David M. Weigl
 // @homepageURL https://github.com/musicog/ApplyAnnotations
 // @version  1
