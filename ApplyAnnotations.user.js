@@ -24,7 +24,7 @@ function fetchAndApply() {
             // iterate over each target
             anno["http://www.w3.org/ns/oa#hasTarget"].map((target) => {
               // motivation tells us what to do with the target            
-              const motivations = anno["http://www.w3.org/ns/oa#motivation"] || [];
+              const motivations = anno["http://www.w3.org/ns/oa#motivatedBy"] || [];
               // expect the target ID to end in a fragment identifier (e.g. #note-12345)
               const targetId = target["@id"]
             	const fragment = targetId.substr(targetId.lastIndexOf("#"))
