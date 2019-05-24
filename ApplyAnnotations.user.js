@@ -2,7 +2,7 @@
 // @name ApplyAnnotations
 // @description  Foo
 // @author David M. Weigl
-// @homepageURL https://github.com/musicog/VerovioThis
+// @homepageURL https://github.com/musicog/ApplyAnnotations
 // @version  1
 // @run-at document-idle
 // @include  *
